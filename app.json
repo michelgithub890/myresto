@@ -2,7 +2,7 @@
   "expo": {
     "name": "myresto",
     "slug": "myresto",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -21,10 +21,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "versionCode": 5,
+      "permissions": [],
+      "googleServicesFile": "./google-services.json",
+      "package": "com.michel.myresto"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c8f454d1-e7b9-4126-8be5-4c1b256812c1"
+      }
     }
   }
 }

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "486086267217",
+    "firebase_url": "https://monrestaurant-f4143-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "monrestaurant-f4143",
+    "storage_bucket": "monrestaurant-f4143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486086267217:android:fa2c7e99b81cf6dcc64370",
+        "android_client_info": {
+          "package_name": "com.michel.myresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486086267217-5h602dvfbjrlsog69rbhjglf61s2jaqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjzlaYC5GofGdW6llqYoiV489QWRf4RfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486086267217-5h602dvfbjrlsog69rbhjglf61s2jaqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486086267217:android:68f8067cc2390a43c64370",
+        "android_client_info": {
+          "package_name": "myresto.laurent.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486086267217-5h602dvfbjrlsog69rbhjglf61s2jaqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjzlaYC5GofGdW6llqYoiV489QWRf4RfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486086267217-5h602dvfbjrlsog69rbhjglf61s2jaqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
